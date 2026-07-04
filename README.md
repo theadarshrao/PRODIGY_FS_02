@@ -152,8 +152,8 @@ This project demonstrates:
 SCREENSHOT
 
 <img width="1600" height="785" alt="Landing Page" src="https://github.com/user-attachments/assets/99c89171-5875-4774-b380-ef7bd6f09e12" />
-<img width="1599" height="410" alt="Checkout" src="https://github.com/user-attachments/assets/6007d24f-e323-442a-8bb1-2d9b3e4c1adc" />
 <img width="1599" height="609" alt="Your Cart" src="https://github.com/user-attachments/assets/229d7152-75f4-4144-b2f3-4397877ff738" />
+<img width="1599" height="410" alt="Checkout" src="https://github.com/user-attachments/assets/6007d24f-e323-442a-8bb1-2d9b3e4c1adc" />
 <img width="1600" height="401" alt="Order Status" src="https://github.com/user-attachments/assets/d8ec0962-2fc6-4f37-8db2-982484544985" />
 
 
