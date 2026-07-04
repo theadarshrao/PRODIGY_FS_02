@@ -147,4 +147,7 @@ This project demonstrates:
 
 **Adarsh Rao**
 
-⭐ If you like this project, consider giving it a **Star** on GitHub!
+⭐ If you like this project, consider giving it a **Star** on GitHub! 
+
+<img width="1600" height="785" alt="Landing Page" src="https://github.com/user-attachments/assets/99c89171-5875-4774-b380-ef7bd6f09e12" />
+
